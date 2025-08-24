@@ -40,7 +40,7 @@ This tool is intended for:
 ### Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Muneeb-Zafar/SSLStrip-proof-of-concept.git
+   git clone https://github.com/VastScientist69/SSLStrip-proof-of-concept.git
    cd SSLStrip-proof-of-concept
 
    chmod +x stealth_script.sh
